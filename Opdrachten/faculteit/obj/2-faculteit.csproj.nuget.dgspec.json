@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/2-faculteit/2-faculteit.csproj": {}
+  },
+  "projects": {
+    "/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/2-faculteit/2-faculteit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/2-faculteit/2-faculteit.csproj",
+        "projectName": "2-faculteit",
+        "projectPath": "/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/2-faculteit/2-faculteit.csproj",
+        "packagesPath": "/Users/jonasstasseyns/.nuget/packages/",
+        "outputPath": "/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/2-faculteit/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jonasstasseyns/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

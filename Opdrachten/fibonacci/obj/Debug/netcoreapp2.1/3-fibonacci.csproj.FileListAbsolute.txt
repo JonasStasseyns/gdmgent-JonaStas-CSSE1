@@ -1,0 +1,11 @@
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/bin/Debug/netcoreapp2.1/3-fibonacci.deps.json
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/bin/Debug/netcoreapp2.1/3-fibonacci.runtimeconfig.json
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/bin/Debug/netcoreapp2.1/3-fibonacci.runtimeconfig.dev.json
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/bin/Debug/netcoreapp2.1/3-fibonacci.dll
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/bin/Debug/netcoreapp2.1/3-fibonacci.pdb
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/obj/Debug/netcoreapp2.1/3-fibonacci.csprojAssemblyReference.cache
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/obj/Debug/netcoreapp2.1/3-fibonacci.csproj.CoreCompileInputs.cache
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/obj/Debug/netcoreapp2.1/3-fibonacci.AssemblyInfoInputs.cache
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/obj/Debug/netcoreapp2.1/3-fibonacci.AssemblyInfo.cs
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/obj/Debug/netcoreapp2.1/3-fibonacci.dll
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/3-fibonacci/obj/Debug/netcoreapp2.1/3-fibonacci.pdb
