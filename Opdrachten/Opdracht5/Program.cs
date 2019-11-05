@@ -6,35 +6,56 @@ namespace Opdracht5
     {
         static void Main(string[] args)
         {
-            void addNumbers(int num1, int num2){
-                int sum = num1 + num2;
+            void addNumbers(int getal1, int getal2){
+                int sum = getal1 + getal2;
                 Console.WriteLine(' ');
-                Console.WriteLine("SOM: " + num1 + " + " + num2 + " = " + sum);
-                Console.WriteLine(' ');
-            }
-            void subtractNumbers(int num1, int num2){
-                int substraction = num1 - num2;
-                Console.WriteLine(' ');
-                Console.WriteLine("VERSCHIL: " + num1 + " - " + num2 + " = " + substraction);
+                Console.WriteLine("SOM: " + getal1 + " + " + getal2 + " = " + sum);
                 Console.WriteLine(' ');
             }
-            void multiplyNumbers(int num1, int num2){
-                int multiplied = num1 * num2;
+            void subtractNumbers(int getal1, int getal2){
+                int substraction = getal1 - getal2;
                 Console.WriteLine(' ');
-                Console.WriteLine("PRODUCT: " + num1 + " x " + num2 + " = " + multiplied);
+                Console.WriteLine("VERSCHIL: " + getal1 + " - " + getal2 + " = " + substraction);
                 Console.WriteLine(' ');
             }
-            void divideNumbers(int num1, int num2){
-                int quotient = num1 / num2;
+            void multiplyNumbers(int getal1, int getal2){
+                int multiplied = getal1 * getal2;
                 Console.WriteLine(' ');
-                Console.WriteLine("QUOTIENT: " + num1 + " / " + num2 + " = " + quotient);
+                Console.WriteLine("PRODUCT: " + getal1 + " x " + getal2 + " = " + multiplied);
+                Console.WriteLine(' ');
+            }
+            void divideNumbers(int getal1, int getal2){
+                int quotient = getal1 / getal2;
+                Console.WriteLine(' ');
+                Console.WriteLine("QUOTIENT: " + getal1 + " / " + getal2 + " = " + quotient);
+                Console.WriteLine(' ');
+            }
+            void modulusNumbers(int getal1, int getal2){
+                int rest = getal1 % getal2;
+                Console.WriteLine(' ');
+                Console.WriteLine("MODULO: " + getal1 + " % " + getal2 + " = " + rest);
+                Console.WriteLine(' ');
+            }
+            void increaseNum(int getal){
+                int verhoogd = getal+1;
+                Console.WriteLine(' ');
+                Console.WriteLine("VERHOOGD: " + getal + " + 1 = " + verhoogd);
+                Console.WriteLine(' ');
+            }
+            void decreaseNum(int getal){
+                int verlaagd = getal-1;
+                Console.WriteLine(' ');
+                Console.WriteLine("VERLAAGD: " + getal + " - 1 = " + verlaagd);
                 Console.WriteLine(' ');
             }
 
-            addNumbers(4, 5);
-            subtractNumbers(10, 6);
-            multiplyNumbers(3, 6);
-            divideNumbers(20, 4);
+            addNumbers(5, 6);
+            subtractNumbers(8, 5);
+            multiplyNumbers(5, 3);
+            divideNumbers(8, 4);
+            modulusNumbers(5, 3);
+            increaseNum(7);
+            decreaseNum(8);
         }
 
         
