@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/faculteit/2-faculteit.csproj": {}
+    "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/fibonacci/3-fibonacci.csproj": {}
   },
   "projects": {
-    "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/faculteit/2-faculteit.csproj": {
+    "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/fibonacci/3-fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/faculteit/2-faculteit.csproj",
-        "projectName": "2-faculteit",
-        "projectPath": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/faculteit/2-faculteit.csproj",
+        "projectUniqueName": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/fibonacci/3-fibonacci.csproj",
+        "projectName": "3-fibonacci",
+        "projectPath": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/fibonacci/3-fibonacci.csproj",
         "packagesPath": "/Users/jonasstasseyns/.nuget/packages/",
-        "outputPath": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/faculteit/obj/",
+        "outputPath": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/fibonacci/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

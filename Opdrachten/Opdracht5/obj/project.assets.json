@@ -558,6 +558,7 @@
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -693,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/fibonacci/3-fibonacci.csproj",
-      "projectName": "3-fibonacci",
-      "projectPath": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/fibonacci/3-fibonacci.csproj",
+      "projectUniqueName": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/Opdracht5.csproj",
+      "projectName": "Opdracht5",
+      "projectPath": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/Opdracht5.csproj",
       "packagesPath": "/Users/jonasstasseyns/.nuget/packages/",
-      "outputPath": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/fibonacci/obj/",
+      "outputPath": "/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

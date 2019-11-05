@@ -1,0 +1,11 @@
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.deps.json
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.runtimeconfig.json
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.runtimeconfig.dev.json
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.dll
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/bin/Debug/netcoreapp2.1/Opdracht5.pdb
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.csprojAssemblyReference.cache
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.csproj.CoreCompileInputs.cache
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.AssemblyInfoInputs.cache
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.AssemblyInfo.cs
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.dll
+/Users/jonasstasseyns/Documents/GitHub/gdmgent-JonaStas-CSSE1/Opdrachten/Opdracht5/obj/Debug/netcoreapp2.1/Opdracht5.pdb
