@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Opdracht5
 {
@@ -62,6 +63,39 @@ namespace Opdracht5
                 Console.WriteLine("WILLEKEURIG BEREIK: " + randInt);
                 Console.WriteLine(' ');
             }
+            void lottery(){
+                Console.WriteLine(" ");
+                Console.WriteLine("LOTERIJ");
+                Console.WriteLine("Je zal 6 cijfers moeten invullen:");
+                int[] pickedInts = new int[6];
+                for (int i = 0; i < 6; i++){
+                    int index = i+1;
+                    Console.WriteLine("Voer cijfer in voor vakje " + index);
+                    int tmp = Convert.ToInt32(Console.ReadLine());
+                    int pos = Array.IndexOf(pickedInts, tmp);
+                    if(pos == -1){
+                        pickedInts[i] = tmp;
+                    }
+                }
+                Console.WriteLine("Gekozen cijfers:");
+                Console.WriteLine("[{0}]", string.Join(", ", pickedInts));
+                Console.WriteLine(" ");
+                Console.WriteLine("Trekking:");
+                Random random = new Random();
+                int wins = 0;
+                for (int i = 0; i < 6; i++){
+                    Thread.Sleep(5000);
+                    int index = i+1;
+                    int randInt = random.Next(1, 45);
+                    if(randInt == pickedInts[i]){
+                        Console.WriteLine("Gefiliciteerd! Uw nummer: " + pickedInts[i] + " / Winnend nummer: " + randInt);
+                        wins++;
+                    }else{
+                        Console.WriteLine("Jammer! Uw nummer: " + pickedInts[i] + " / Winnend nummer: " + randInt);
+                    }
+                }
+                Console.WriteLine("U had " + wins + " van de 6 cijfers correct.");
+            }
 
             addNumbers(5, 6);
             subtractNumbers(8, 5);
@@ -72,6 +106,7 @@ namespace Opdracht5
             decreaseNum(8);
             randomNumber();
             randomNumberRange(0, 80);
+            lottery();
         }
 
         
