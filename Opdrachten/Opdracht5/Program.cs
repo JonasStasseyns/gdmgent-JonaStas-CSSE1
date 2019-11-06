@@ -48,6 +48,20 @@ namespace Opdracht5
                 Console.WriteLine("VERLAAGD: " + getal + " - 1 = " + verlaagd);
                 Console.WriteLine(' ');
             }
+            void randomNumber(){
+                Random random = new Random();
+                int randInt = random.Next();
+                Console.WriteLine(' ');
+                Console.WriteLine("WILLEKEURIG: " + randInt);
+                Console.WriteLine(' ');
+            }
+            void randomNumberRange(int min, int max){
+                Random random = new Random();
+                int randInt = random.Next(min, max);
+                Console.WriteLine(' ');
+                Console.WriteLine("WILLEKEURIG BEREIK: " + randInt);
+                Console.WriteLine(' ');
+            }
 
             addNumbers(5, 6);
             subtractNumbers(8, 5);
@@ -56,6 +70,8 @@ namespace Opdracht5
             modulusNumbers(5, 3);
             increaseNum(7);
             decreaseNum(8);
+            randomNumber();
+            randomNumberRange(0, 80);
         }
 
         
